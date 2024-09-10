@@ -16,7 +16,7 @@ Questa cartella contiene i notebook Jupyter utilizzati per condurre gli esperime
 
 I notebook includono istruzioni dettagliate per guidare l'utente attraverso ogni fase del processo. Non sono necessarie configurazioni avanzate: eventuali accortezze o configurazioni particolari verranno indicate direttamente all'interno dei notebook.
 
-### 2. `csv/`
+### 2. `results/`
 In questa cartella sono presenti i file CSV che contengono i risultati delle varie fasi sperimentali. Ogni file CSV include:
 
 - **Risposte generate dai modelli** durante gli esperimenti.
@@ -34,7 +34,7 @@ Gli esperimenti si concentrano su tre aspetti chiave:
 ## Come utilizzare questa repository
 
 1. **Esegui gli esperimenti**: Puoi esplorare i notebook Jupyter per capire come sono stati condotti gli esperimenti di rilevamento dei bias. 
-2. **Analizza i risultati**: I file CSV presenti nella cartella `csv/` contengono i risultati dettagliati di ogni esperimento. Puoi analizzare questi dati per comprendere l'entità dei bias nei modelli testati.
+2. **Analizza i risultati**: I file CSV presenti nella cartella `results/` contengono i risultati dettagliati di ogni esperimento. Puoi analizzare questi dati per comprendere l'entità dei bias nei modelli testati.
 3. **Modifica e personalizza**: Puoi adattare i notebook per testare altri modelli o per esplorare altre forme di bias. Sentiti libero di sperimentare e contribuire con le tue scoperte!
 
 ## Obiettivi della Tesi
