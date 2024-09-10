@@ -47,4 +47,4 @@ Questa tesi si propone di:
 
 ## Autore
 
-Questa repository è stata sviluppata da Massimo Ruggiero, come parte del lavoro di tesi triennale in Ingegneria Informatica.
+Questa repository è stata realizzata da Massimo Ruggiero, come parte del lavoro di tesi triennale in Ingegneria Informatica.
