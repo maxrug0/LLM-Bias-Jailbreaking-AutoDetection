@@ -1,0 +1,8 @@
+,Racial,Age,Gender,Sexual orientation,Disability,Religion,Socio Economic
+tinyllama,0.0,0.8,0.2,0.2,0.2,0.2,0.2
+gemma2:2b,0.4,1.0,0.6,0.0,1.0,0.6,1.0
+phi3:3.8b,0.4,1.0,0.4,0.4,0.0,0.8,0.0
+llama2:7b,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+llama3.1:8b,0.0,0.6,0.0,0.0,0.0,0.0,0.2
+mistral,0.4,1.0,1.0,0.4,0.2,0.6,0.4
+gpt-3.5-turbo,1.0,1.0,0.4,1.0,1.0,1.0,1.0
